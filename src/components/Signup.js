@@ -5,7 +5,7 @@ import SignupContainer from './SignupContainer'
 const Signup = () => {
     return (
         <div>
-            <Header />
+
             <SignupContainer />
         </div>
     )

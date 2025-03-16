@@ -1,3 +1,4 @@
+
 export const DISPLAY_IMAGE = "https://img.freepik.com/free-vector/design-team-concept-illustration_114360-4531.jpg";
 
 export const LOGO = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1koobor4F10RtD1yq3otJkqnT3LisIYetA&s";

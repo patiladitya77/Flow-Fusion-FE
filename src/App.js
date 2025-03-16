@@ -11,13 +11,14 @@ const Applayout = () => {
     return (
 
         <div>
-            <Header />,
+            <Header />
             <Outlet />
         </div>
 
     );
 };
 
+//header is kept intact throughout the app
 const appRouter = createBrowserRouter([
     {
         path: "/",

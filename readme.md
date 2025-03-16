@@ -1,0 +1,8 @@
+- npm init
+- parcel
+- react
+- react-dom
+- react-router
+- header
+- signup page
+- landing
